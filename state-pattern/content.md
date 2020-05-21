@@ -53,6 +53,11 @@
 ## 4. 有限状态机
 1. 初始值、状态、流转、流转控制
 2. 举个栗子🌰
+## 5. 小结
+* 控制反转非常重要，面向接口编程，而非面向实现编程
+* 状态模式使用前提，状态多，切换频繁且重
+* 不要overkill
+* 有限状态机可以帮助我们更好地管理状态的流转
 ## 5. refs
 1. [推荐一个有趣的网站，方便学习设计模式](https://refactoring.guru/design-patterns/state/typescript/example)
 2. [设计模式在美团外卖营销业务中的应用](https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html)
